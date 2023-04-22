@@ -4,7 +4,7 @@ abinesh
 
 koranad
 
-this changes done in local lap                                                              
+this changes done in local lap               
 
 
 
@@ -13,3 +13,13 @@ mayiladuthurai
 
 changes for test only
 
+<<<<<<< Updated upstream
+
+git stash
+
+
+git stash 1st
+
+=======
+git stash2nd
+>>>>>>> Stashed changes
