@@ -2,6 +2,7 @@ hi
 i am 
 abinesh
 
+<<<<<<< HEAD
 koranad
 
 this changes done in local lap               
@@ -23,3 +24,6 @@ git stash 1st
 =======
 git stash2nd
 >>>>>>> Stashed changes
+=======
+koranad
+>>>>>>> 3fb7225 (head checking)
