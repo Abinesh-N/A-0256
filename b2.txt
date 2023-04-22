@@ -2,11 +2,10 @@ hi
 i am 
 abinesh
 
-<<<<<<< HEAD
+HEAD
 koranad
 
 this changes done in local lap               
-
 
 
 mayiladuthurai
@@ -14,16 +13,14 @@ mayiladuthurai
 
 changes for test only
 
-<<<<<<< Updated upstream
+Updated upstream
 
 git stash
 
 
 git stash 1st
 
-=======
 git stash2nd
->>>>>>> Stashed changes
-=======
+
 koranad
->>>>>>> 3fb7225 (head checking)
+
